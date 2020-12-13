@@ -17,7 +17,7 @@ consecutivo = 0
 
 
 
-@app.get("/listfiles")
+@app.get("/listfiles/")
 async def files():
     #return {"message": database_files.get("Contabilidad")}
     return {"message": database_files}
