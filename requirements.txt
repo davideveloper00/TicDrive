@@ -1,4 +1,8 @@
 fastapi==0.62.0
 uvicorn==0.12.3
 pydantic==1.7.3
+<<<<<<< HEAD
 python-multipart
+=======
+python-multipart
+>>>>>>> 2d0669fd915b1e3289ed2ce8d48bcfefbd0d1b8b
